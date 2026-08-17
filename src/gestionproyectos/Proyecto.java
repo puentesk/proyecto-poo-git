@@ -6,4 +6,8 @@ public class Proyecto {
     public Proyecto(String nombre) {
         this.nombre = nombre;
     }
+
+    public double calcularAvance() {
+    return 0.0;
+}
 }
