@@ -15,4 +15,6 @@ public class Mago extends Tarea {
     public void recargarMana(int cantidad) {
         this.mana += cantidad;
     }
+
+    //hola123
 }
